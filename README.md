@@ -15,26 +15,18 @@ A clean and modern login page built using HTML and CSS. It features a beautiful 
 - 📌 Fixed bottom-right credit with author name and GitHub link
 
 ---
-
-## 🚀 Getting Started
-
-To view and run the login page locally:
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/MuhammadSaadMehdi/SimpleLoginPage
-
 ## 🛠️ Built With
 
-- 🧱 HTML5
-- 🎨 CSS3
+- 🧱 **HTML5**  
+- 🎨 **CSS3**
 
+---
 
 ## 👨‍💻 Author
 
 **Muhammad Saad Mehdi**  
 🔗 [GitHub Profile](https://github.com/MuhammadSaadMehdi)
+
 
 
 
