@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- CSS Link -->
+    <link rel="stylesheet" href="style.css">
+    <title>Login</title>
+</head>
+<body>
+    <h1>Login</h1>
+    <div class="login">
+        <form action="/login" method="POST">
+            <label for="username">Username</label>
+            <input type="text" id="username" name="username" placeholder="username" required>
+
+            <label for="password">Password</label>
+            <input type="password" id="password" name="password" placeholder="password" required>
+
+            <label for="confirm-password">Confirm Password</label>
+            <input type="password" id="confirm-password" name="confirm-password" placeholder="confirm password" required>
+
+            <div class="remember-me">
+                <div>
+                    <input type="checkbox" id="remember" name="remember">
+                    <label for="remember">Remember Me</label>
+                </div>
+                <a href="#">Forget Password?</a>
+            </div>
+
+            <button type="submit">Login</button>
+        </form>
+    </div>
+
+    <div class="credit-box">
+    <span>Created by Muhammad Saad Mehdi</span>
+    <a href="https://github.com/MuhammadSaadMehdi" target="_blank">GitHub</a>
+</div>
+
+
+</body>
+</html>
